@@ -7,7 +7,7 @@
 
 - 👩‍💻 Me gusta mucho crear videos y juegos. 😅
 - 💪🏼 Futuras metas: Aprender más sobre la programación y edición de videos - Siempre con nuevas ideas.
-- 😡 No que no me gusta es Java script, se me hace muy pesado 😂😂😂
+- 😡 Lo que no me gusta es Java script, se me hace muy pesado 😂😂😂
 
 ---
 
@@ -33,4 +33,4 @@
 ---
 Creditos: [Lautaro Civalero]((https://github.com/CivaleroLautaro))
 
-Ultima edición: 14/05/2024
+Ultima edición: 16/05/2024
